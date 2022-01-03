@@ -1,0 +1,3 @@
++incdir+${AXI_VIP_ROOT}/design
+${AXI_VIP_ROOT}/design/axi_pkg.sv
+${AXI_VIP_ROOT}/design/axi_if.sv

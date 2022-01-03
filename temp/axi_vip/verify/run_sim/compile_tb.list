@@ -1,0 +1,14 @@
+
++incdir+${AXI_VIP_VERIF_PATH}/sequences
++incdir+${AXI_VIP_VERIF_PATH}/testcases
++incdir+${AXI_VIP_VERIF_PATH}/env
+
+// Compilation VIP design list
+-f ${AXI_VIP_ROOT}/design/axi_vip.list
+
+// Compilation Environment
+${AXI_VIP_VERIF_PATH}/env/axi_environment_pkg.sv
+${AXI_VIP_VERIF_PATH}/sequences/axi_sequence_pkg.sv
+${AXI_VIP_VERIF_PATH}/testcases/axi_test_pkg.sv
+${AXI_VIP_VERIF_PATH}/env/tb_top.sv
+

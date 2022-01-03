@@ -1,0 +1,3 @@
++incdir+${AXI_VIP_VERIF_PATH}/hdl_interconnect
+// Compilation Interconnet
+// ...
